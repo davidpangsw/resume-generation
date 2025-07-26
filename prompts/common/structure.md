@@ -1,0 +1,13 @@
+# File Structure
+- `portfolio/`
+    - `experiences/*.md` - One file per job
+    - `schools/*.md` - One file per educational institution
+    - `skills/*.md` - One file per major skill/technology
+    - `self/self.md` - Personal contact information and professional summary
+    - `side-projects/*.md` - Personal projects and side work
+- `master-application/`
+    - `master.md` - comprehensive resume with all portfolio data
+    - `run.sh` - automated PDF generation script to generate `master.pdf`
+    - `resume_style.css` - formatting and layout
+    - `master.pdf`
+    - `questions.md` - Questions about the portfolio
