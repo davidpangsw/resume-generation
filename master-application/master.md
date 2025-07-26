@@ -10,7 +10,7 @@
 
 ## Professional Summary
 
-Experienced Backend Developer with 8+ years of expertise in creating reliable, high-quality web backend solutions, skilled in TypeScript, Java, Python, Go, and Node.js. Committed to adopting cutting-edge technologies as a dedicated learner, backed by a solid foundation in mathematics from The Chinese University of Hong Kong. Strong background in financial systems, real-time data processing, API development, and STEM education with 12+ years of continuous tutoring experience. Passionate about everything patterned, especially mathematics, physics, and computer science, with a dedication to sharing this passion through education and technology.
+Experienced Backend Developer with expertise in creating reliable, high-quality web backend solutions, skilled in TypeScript, Java, Python, Go, and Node.js. Committed to adopting cutting-edge technologies as a dedicated learner, backed by a solid foundation in mathematics from The Chinese University of Hong Kong. Strong background in financial systems, real-time data processing, API development, and STEM education with 12+ years of continuous tutoring experience. Passionate about everything patterned, especially mathematics, physics, and computer science, with a dedication to sharing this passion through education and technology.
 
 ## Professional Experience
 
@@ -35,7 +35,7 @@ Organizations: Root of Math (2023-2024), Time Education (2023-2025), Core Academ
 - Provided comprehensive STEM tutoring for Grade 3-12 students across mathematics, physics, chemistry, computer science, and statistics for 12+ years continuously
 - Taught advanced programming languages including Java and Python from beginner to AP Computer Science level with hands-on coding instruction, covering object-oriented programming, algorithms, and data structures
 - Developed personalized learning materials and curriculum tailored to individual student needs across Hong Kong DSE, Canadian BC, and US AP educational systems
-- Successfully guided hundreds of students through complex mathematical and programming concepts with consistently high satisfaction rates and academic improvement
+- Successfully guided approximately 50 students through complex mathematical and programming concepts with consistently high satisfaction rates and academic improvement
 - **Advanced Subject Coverage:**
   - **Mathematics:** AP Statistics, AP Calculus AB/BC, Algebra 1/2, Pre-Calculus, competition math (AMC 10/12, AIME), Grade 7-12 BC Curriculum, University-level SFU Calculus Year 1
   - **Physics:** BC Grade 11-12 Physics, AP Physics (Mechanics, Electricity & Magnetism, Waves & Optics), University prep first-year concepts
@@ -52,9 +52,9 @@ Organizations: Root of Math (2023-2024), Time Education (2023-2025), Core Academ
 
 **Gracious Leader Company Limited** | November 2018 - November 2020 | Hong Kong
 
-- Built robust Golang API backend using Gin framework for high-performance service endpoints, deployed as Docker containers in production environment
-- Developed data processing programs triggered by crontab to process over 1 million website traffic logs stored in PostgreSQL database with optimized performance
-- Implemented streamlined web scraping system with comprehensive error handling and optimization techniques for European market data extraction
+- Built Golang API backend using Gin framework for high-performance service endpoints
+- Developed data processing programs triggered by crontab to process large volumes of website traffic logs (processing approximately 100,000 records daily)
+- Designed and developed a backend for efficient web scraping operations
 - Developed subscription service platform serving users in 10+ European countries with integrated third-party mobile company APIs and payment gateways
 - Managed customer subscription cycles using Laravel Eloquent ORM for PostgreSQL database operations and automated billing
 - Architected RESTful API routes and middleware components, conducting comprehensive testing using Postman for API validation
@@ -62,17 +62,17 @@ Organizations: Root of Math (2023-2024), Time Education (2023-2025), Core Academ
 - Conducted local testing with Docker containers, writing suitable docker-compose files for development environment setup
 - Performed data transformation and managed SQL database subscriptions with automated triggers for real-time aggregated data updates
 - Collaborated in agile development environment, applying agile methodologies for iterative development and team coordination
-- Successfully launched multi-country subscription service with robust payment gateway integration and seamless third-party API connections
-- Led remote development team during COVID-19 pandemic, maintaining effective team communication through Slack and delivering projects on schedule
+- Developed a website subscription service serving 1,000-2,000 users across various European countries and integrated third-party mobile company APIs and streamlined payment gateways
+- Worked remotely during COVID-19 pandemic, maintaining effective team communication through Slack and delivering projects on schedule
 
 ### Analyst Programmer
 
 **HP Enterprise** | April 2017 - April 2018 | Hong Kong
 
-- Rewrote critical components of Hong Kong International Airport baggage handling system using Java programming language for enhanced performance
-- Developed detailed technical documentation and comprehensive training materials ensuring system continuity during peak travel seasons
-- Maintained and improved critical airport infrastructure systems serving millions of passengers annually with zero downtime requirements
-- Successfully delivered large-scale system improvements for airport operations with zero downtime deployment and comprehensive testing
+- Rewrote the part of the system using Java
+- Developed detailed documentation and training materials for the baggage handling system, ensuring continuity during peak travel seasons at Hong Kong airport
+- Maintained and improved critical airport infrastructure systems
+- Contributed to airport infrastructure affecting the entire Hong Kong International Airport operations as part of the message server system
 
 ### Assistant Software Engineer
 
@@ -80,7 +80,7 @@ Organizations: Root of Math (2023-2024), Time Education (2023-2025), Core Academ
 
 - Developed updates and enhancements to government-funded e-learning platform serving Hong Kong's public education sector
 - Maintained educational software systems and collaborated on platform improvements for educational institutions across Hong Kong
-- Contributed to educational technology platform serving thousands of students and educators across Hong Kong's government education system
+- Contributed to educational technology platform serving Hong Kong's government education system
 
 ### Junior Programmer
 
@@ -90,10 +90,10 @@ Financial services company specializing in options trading, processing real-time
 
 - Extracted and processed real-time stock and options data from HKEX (Hong Kong Exchange) byte files, distributing through company TCP systems using Java
 - Created user interface enabling traders to execute options trades using real-time market data from company TCP systems
-- Developed critical financial trading infrastructure processing real-time market data for options trading operations with high-frequency requirements
-- Applied advanced mathematical knowledge of option pricing models including Black-Scholes equation and trading algorithms in production financial systems learned during Bachelor Mathematics studies
-- Implemented stock data extraction and distribution system with robust error handling and performance optimization
-- Leveraged mathematical background in option pricing and personal trading experience in stocks and cryptocurrencies for system development
+- Extracted stock data from byte files and distributed them into the company's TCP system using Java and created a user interface for traders to trade options with company TCP system data
+- Applied mathematical knowledge of option pricing learned in Bachelor Math department and knowledge of trading algorithms during experience in trading stocks and cryptocurrencies
+- Successfully implemented stock data extraction and distribution system
+- Leveraged mathematical background in option pricing and knowledge of trading algorithms from personal experience with stocks and cryptocurrencies for system development
 
 ## Education
 
@@ -119,50 +119,50 @@ Financial services company specializing in options trading, processing real-time
 ## Skills
 
 ### Programming Languages
-- **Java:** Advanced (8+ years) - Enterprise applications, financial systems, airport infrastructure, educational platforms, TCP system integration
-- **Python:** Advanced (5+ years) - Data analysis with Pandas/NumPy, machine learning with Scikit-learn, web scraping with lxml, blockchain processing, cryptocurrency analysis
-- **TypeScript:** Advanced (5+ years) - Type-safe application development, backend APIs, Next.js applications, advanced features and generics, modern patterns
-- **Node.js:** Advanced (5+ years) - Real-time cryptocurrency trading systems, web scraping automation with Puppeteer, API development, microservices, WebSocket implementation
-- **Go/Golang:** Intermediate (2+ years) - Gin framework API development, web backends, concurrent programming with goroutines and channels, Telegram bot development
-- **JavaScript:** Advanced (5+ years) - Server-side development, event-driven programming, non-blocking I/O, high-throughput data processing
+- **Java:** Intermediate (2 years professional) - Enterprise applications, financial systems, airport infrastructure, TCP system integration at LT Securities and HP Enterprise
+- **Python:** Intermediate - Data analysis with Pandas/NumPy, machine learning with Scikit-learn, web scraping with lxml, blockchain processing, cryptocurrency analysis in freelance projects
+- **TypeScript:** Intermediate - Type-safe application development, backend APIs, Next.js applications, advanced features and generics, modern patterns
+- **Node.js:** Intermediate - Real-time cryptocurrency trading systems, web scraping automation with Puppeteer, API development, WebSocket implementation in freelance projects
+- **Go/Golang:** Intermediate (2 years) - Gin framework API development at Gracious Leader, web backends, concurrent programming with goroutines and channels
+- **JavaScript:** Intermediate - Server-side development, event-driven programming, non-blocking I/O, high-throughput data processing
 
 ### Frontend Development
-- **React.js:** Advanced - Component architecture with modern React patterns (hooks, functional components), performance optimization with code splitting and lazy loading
-- **Next.js:** Advanced - Server-side rendering, static site generation, internationalization (i18n) with multi-language support, SEO optimization
+- **React.js:** Intermediate - Component architecture with modern React patterns (hooks, functional components), performance optimization with code splitting and lazy loading
+- **Next.js:** Intermediate - Server-side rendering, static site generation, internationalization (i18n) with multi-language support, SEO optimization
 - **Flutter Web:** Intermediate - Game development with custom 2D physics engine, MVVM architecture, 60 FPS performance optimization
-- **Responsive Design:** Advanced - Mobile-first development, cross-browser compatibility, accessibility (WCAG-compliant interfaces)
-- **CSS:** Advanced - Flexbox, Grid, animations, modern CSS techniques, progressive enhancement
+- **Responsive Design:** Intermediate - Mobile-first development, cross-browser compatibility, accessibility (WCAG-compliant interfaces)
+- **CSS:** Intermediate - Flexbox, Grid, animations, modern CSS techniques, progressive enhancement
 
 ### Backend & API Development
-- **RESTful APIs:** Advanced - Design and development, JWT authentication implementation, middleware development, API rate limiting and security measures, comprehensive testing with Postman
-- **WebSocket:** Advanced - Real-time data synchronization, cryptocurrency trading systems, multiple exchange connections
-- **API Integration:** Advanced - Third-party APIs (payment gateways, mobile company APIs), financial API security practices
-- **Microservices:** Intermediate - Service architecture, Docker containerization, inter-service communication
+- **RESTful APIs:** Intermediate - Design and development, JWT authentication implementation, middleware development, comprehensive testing with Postman
+- **WebSocket:** Intermediate - Real-time data synchronization, cryptocurrency trading systems, multiple exchange connections
+- **API Integration:** Intermediate - Third-party APIs (payment gateways, mobile company APIs), financial API security practices
+- **Microservices:** Beginner - Basic understanding, Docker containerization
 
 ### Databases & Data Processing
-- **PostgreSQL:** Advanced (5+ years) - Complex queries, performance optimization, Laravel Eloquent ORM integration, business applications
+- **PostgreSQL:** Intermediate (2 years) - Complex queries, performance optimization, Laravel Eloquent ORM integration at Gracious Leader
 - **MongoDB:** Intermediate - Document storage, NoSQL design patterns, flexible data structures
 - **Redis:** Intermediate - Caching strategies, session management, performance optimization
 - **InfluxDB:** Intermediate - Time-series data storage for financial and trading applications
-- **Data Analysis:** Advanced - Pandas, NumPy, Scikit-learn for cryptocurrency analysis, statistical modeling, machine learning algorithms
+- **Data Analysis:** Intermediate - Pandas, NumPy, Scikit-learn for cryptocurrency analysis, statistical modeling, machine learning algorithms
 
 ### DevOps & Infrastructure
-- **Docker:** Advanced - Container creation and management, docker-compose for multi-service applications, custom image development
+- **Docker:** Intermediate - Container creation and management, docker-compose for multi-service applications used at Gracious Leader
 - **AWS:** Intermediate - EC2 instances, Logstash + Elasticsearch logging infrastructure, cloud deployment and management
-- **Git:** Advanced - Version control, collaborative development workflows, feature branch management
+- **Git:** Intermediate - Version control, collaborative development workflows, feature branch management
 - **CI/CD:** Intermediate - Automated build pipelines, Vercel platform optimization, deployment automation
 - **Experience Limitations:** Basic understanding but no complex CI/CD pipeline implementation, limited experience with Kubernetes or advanced container orchestration, no direct experience with microservices architecture
 
 ### Specialized Technologies
-- **Financial Systems:** Advanced - Cryptocurrency real-time data processing, trading algorithms, blockchain analysis, options trading interface development
-- **Web Scraping:** Advanced - Node.js Puppeteer, Python lxml, automated data collection, error handling and optimization
+- **Financial Systems:** Intermediate - Cryptocurrency real-time data processing, trading algorithms, blockchain analysis, options trading interface development
+- **Web Scraping:** Intermediate - Node.js Puppeteer, Python lxml, automated data collection in freelance projects
 - **Game Development:** Intermediate - Flutter web games, custom physics engines, MVVM architecture, state management
-- **Educational Technology:** Advanced - STEM tutoring platforms, user-centered design for diverse learners, accessibility focus
+- **Educational Technology:** Intermediate - STEM tutoring experience, user-centered design for diverse learners
 
 ### Mathematical & Analytical Skills
-- **Statistical Analysis:** Advanced - 12+ years teaching and practical application experience, mathematical modeling
-- **Algorithm Development:** Advanced - Trading strategies, data processing optimization, performance analysis
-- **Mathematical Finance:** Advanced - Bond pricing, option pricing theory from put-call parity to Black-Scholes equation and solution, cash flow analysis, risk management, financial data security
+- **Statistical Analysis:** Intermediate - 12+ years teaching experience, mathematical modeling
+- **Algorithm Development:** Intermediate - Trading strategies, data processing optimization, performance analysis
+- **Mathematical Finance:** Intermediate - Bond pricing, option pricing theory from put-call parity to Black-Scholes equation and solution, cash flow analysis
 - **Machine Learning:** Intermediate - Scikit-learn, trading strategy development, pattern recognition, data mining
 
 ## Side Projects
@@ -175,8 +175,8 @@ Financial services company specializing in options trading, processing real-time
 
 - Professional tutoring services platform with comprehensive multi-language support (English/Chinese) using Next.js i18n implementation with internationalized routing (/en/ path structure)
 - Implemented responsive design with mobile-first approach, SEO optimization with meta tags and structured data, modern React patterns including hooks and functional components
-- Deployed on Vercel platform with automatic scaling, performance optimization, CI/CD integration, and automated build pipeline
-- Performance optimization through code splitting and lazy loading for enhanced user experience across devices
+- Deployed on Vercel platform
+- Responsive design with mobile-first approach, SEO optimization, modern React patterns
 - Serves as client acquisition platform with professional branding, service showcase, and user-friendly interface for educational services targeting students and parents
 - Demonstrates full-stack development skills, internationalization expertise, modern web deployment practices, and business development capabilities
 
@@ -207,7 +207,7 @@ Financial services company specializing in options trading, processing real-time
 - **Career Goal:** Game Developer - focused on developing original games
 - **Teaching Philosophy:** Centers around genuine enthusiasm for STEM subjects to create engaging learning environments. Encourages students to be curious, experiment, and embrace challenges to develop creative problem-solvers. Offers customized learning materials tailored to each student's unique needs, enhancing STEM abilities for current academic challenges and future success.
 - **Professional Commitment:** Dedication to education extends beyond sharing knowledge to inspiring lifelong learning and discovery in STEM fields
-- **Investment Firm Motivation:** Strong interest in working with investment firms for the experience and challenge of learning real-world systems. Expertise in handling data in real-time with robust system development. As a backend developer, finds fulfillment in building supportive and reliable systems that solve complex problems.
+- **Investment Firm Motivation:** Working in investment firm is a great experience and challenge to learn the real world system. To handle the data in real time and fast, to produce strong system, are important skills that cannot be easily achieved. As a backend developer, it is always fulfilling when I can build a system that is supportive. When I built the web backend for Gracious leader, the system originally has severe problems, but finally I fixed them all. This is satisfying.
 - **Teaching Experience:** 12+ years continuous STEM education with proven track record of student success and academic improvement
 - **Remote Work:** Extensive experience with distributed teams, digital collaboration tools (Slack), and maintaining productivity across timezones including early morning coordination with Hong Kong teams
 - **Professional Development:** Continuous learning in educational technology, modern teaching methodologies, and integration of programming with traditional STEM subjects

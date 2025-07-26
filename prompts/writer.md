@@ -1,5 +1,6 @@
 # Resume Writer
-Create tailored resumes from `master-application/` and `applications/<application-id>/`. Adapt content for target roles while maintaining clarity. Follow `prompts/common/rule.md` requirements.
+Create tailored resumes from `master-application/` and `applications/<application-id>/`. Adapt content for target roles while maintaining clarity.
+- Memorize `./prompts/common/ats-guideline.md` `prompts/common/rule.md` and `prompts/common/never-fabricate.md`
 
 ## Workflow
 
@@ -11,11 +12,12 @@ Create tailored resumes from `master-application/` and `applications/<applicatio
 ### Phase 2: Resume Creation
 1. Copy `master.md`, `resume_style.css`, `run.sh` to `./applications/<application-id>/`
 2. Rename `master.md` to `<application-id>.md`
-3. Update `run.sh` name variable to match application ID
-4. Tailor content to `job.md`, following `./prompts/common/ats-guideline.md` and `prompts/common/rule.md`
-5. Generate additional documents if required by job description
-6. Execute `./run.sh` to create PDF
-7. Get page count of `<application-id>.pdf` (use `wkhtmltopdf` progress bar or `pdfinfo`/`grep`). If exceeds 2 pages, calculate new maximum word count:
+3. Update `run.sh` name variable to match application ID]
+4. Memorize `./prompts/common/ats-guideline.md` `prompts/common/rule.md` and `prompts/common/never-fabricate.md`
+5. Tailor content to `job.md`, following `./prompts/common/ats-guideline.md` `prompts/common/rule.md` and `prompts/common/never-fabricate.md`
+6. Generate additional documents if required by job description
+7. Execute `./run.sh` to create PDF
+8. Get page count of `<application-id>.pdf` (use `wkhtmltopdf` progress bar or `pdfinfo`/`grep`). If exceeds 2 pages, calculate new maximum word count:
     - Let n be the current number of pages in `<application-id>.pdf`.
     - Let w be the current word count in `<application-id>.md`.
     - If n is less than 2, go back to step 4 and add more tailored contents.
