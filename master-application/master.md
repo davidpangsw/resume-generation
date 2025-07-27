@@ -1,12 +1,10 @@
 # David Pang
-**Full Name:** Pang, Sze Wing (彭仕榮)
 
-**Location:** Burnaby, BC, Canada  
-**Phone:** 778-316-4509  
-**Email:** davidpangsw@hotmail.com  
-**LinkedIn:** https://www.linkedin.com/in/sze-wing-p-0a0a51250/  
-**GitHub:** https://github.com/davidpangsw/  
-**Website:** https://linktr.ee/davidpangsw  
+| **Name:** David Pang | **Phone:** 778-316-4509 |
+|-|-|
+| **Full Name:** Pang, Sze Wing (彭仕榮) | **Website:** https://linktr.ee/davidpangsw  |
+| **Location:** Burnaby, BC, Canada | **LinkedIn:** https://www.linkedin.com/in/sze-wing-p-0a0a51250/ |
+| **Email:** davidpangsw@hotmail.com | **GitHub:** https://github.com/davidpangsw/ |
 
 ## Professional Summary
 

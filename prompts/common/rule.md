@@ -38,6 +38,9 @@
 - **One resume = one language only** - no multi-language documents
 - **Default language**: English (if not explicitly specified by user)
 - Mixing languages within single resume document is prohibited
+- **Name Strategy**: Use "Name: David Pang" as primary display name on resume header by default to optimize callback rates in Canadian market. Exclude my full name, avoiding potential ethnic name bias while maintaining professional identity and legal accuracy. Exceptions for including full ethnic name:
+    - Companies explicitly state multicultural commitment or diversity focus
+    - Positions favoring multilingual speakers, particularly STEM tutoring roles
 
 ### Rule 7: Scope Limitation Protocol
 - **Perform ONLY explicitly requested tasks**
