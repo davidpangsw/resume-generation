@@ -1,8 +1,8 @@
-# CRITICAL RESUME RULES - READ BEFORE ANY EDITING
+# CRITICAL RESUME RULES - MANDATORY PRE-EDITING VERIFICATION
 
-## STOP AND READ THIS FIRST
+## EMERGENCY STOP PROTOCOL - READ BEFORE ANY RESUME MODIFICATION
 
-Before making ANY changes to resume content, you MUST follow these mandatory checks:
+Before initiating ANY changes to resume content, you MUST complete these mandatory verification procedures:
 
 ### 1. FABRICATION CHECK - MANDATORY VERIFICATION
 
