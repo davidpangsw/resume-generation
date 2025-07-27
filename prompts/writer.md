@@ -24,9 +24,19 @@ Create tailored resumes from `master-application/` and `applications/<applicatio
     - If n is 3, set the new maximum word count limit to `w*0.9`, and go back to step 4.
     - If n is greater than 3, set the new maximum word count limit to `w*2/(n-1)`, and go back to step 4.
     - If n is exactly 2, we are good, proceed. Keep the word count unchanged and stop.
+9. Additional documents. If `job.md` asks you to generate any additional documents, also generate it under `./applications/<application-id>`. If not, do not generate. Additional documents can be:
+    -  Cover letter
+        - Cover letter is supposed to be an email text or a pdf file.
+        - If it is required to be an email, just generate a `.txt` file.
+        - If it is a pdf file, then generate `.pdf` file through this process:
+            - Copy `run.sh` to `run-cover-letter.sh`, change to name to `<application-id>-cover-letter.md`
+            - generate a markdown file `<application-id>-cover-letter.md`
+            - generate the cover letter in pdf by executing `run-cover-letter.sh`
+    - Text response
+        - If `job.md` asks you to answer any questions or descriptions, generate a `response.md` to respond to all of them.
 
 ## Requirements
-- Target exactly 2 pages in final PDF
+- Target exactly 2 pages in final resume PDF
 - Maintain ATS compliance
 - Include only relevant experience
 - Return to project root directory when complete
