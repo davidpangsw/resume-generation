@@ -8,10 +8,10 @@ A complete Flutter web-based math educational game where players identify number
 ## Game Structure
 
 ### Content Design (36 Total Levels)
-- **📚 Study Tier**: 9 levels, divisors 2-12, numbers 1-50 range
-- **🥉 Bronze Tier**: 9 levels, divisors 2-12, numbers 10-99 (2-digit)
-- **🥈 Silver Tier**: 9 levels, divisors 2-12, numbers 100-999 (3-digit) 
-- **🥇 Gold Tier**: 9 levels, divisors 2-12, numbers 1000-9999 (4-digit)
+- **📚 Study Tier**: 9 levels, selected divisors from 2-12, numbers 1-50 range
+- **🥉 Bronze Tier**: 9 levels, selected divisors from 2-12, numbers 10-99 (2-digit)
+- **🥈 Silver Tier**: 9 levels, selected divisors from 2-12, numbers 100-999 (3-digit) 
+- **🥇 Gold Tier**: 9 levels, selected divisors from 2-12, numbers 1000-9999 (4-digit)
 
 ### Game Mechanics
 - **Physics System**: Custom 2D physics with tier-based gravity and collision detection

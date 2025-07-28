@@ -30,9 +30,10 @@ Generate the following LinkedIn profile sections (under `social/linkedin/`):
 - Use bullet points for better readability
 - Include specific technologies, achievements, and quantifiable results
 - Maintain exact wording from source material
+- Attach releated skills under each experience
 
 ### 4. Skills Section
-- List technical skills with appropriate proficiency levels
+- List other technical skills with appropriate proficiency levels
 - Group by categories (Programming Languages, Backend Development, etc.)
 - Include only skills explicitly mentioned in master.md
 

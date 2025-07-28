@@ -22,7 +22,7 @@
 
 ## Key Achievements
 - **12+ years of continuous STEM tutoring experience** across Hong Kong and Canada
-- Successfully guided approximately 50 students through complex mathematical and programming concepts
+- Successfully guided students through complex mathematical and programming concepts
 - Maintained high student satisfaction and academic improvement rates
 - Built strong reputation leading to consistent referrals and long-term client relationships
 - Seamlessly transitioned teaching practice from Hong Kong to Canadian curriculum systems

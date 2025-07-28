@@ -1,3 +1,3 @@
 # LinkedIn Headline
 
-Backend Developer | 6+ Years | TypeScript, Java, Python, Go | 12+ Years STEM Education | CUHK Math Graduate
+Backend Developer | Mathematics Graduate | 12+ Years STEM Tutoring Experience | TypeScript, Java, Python, Go

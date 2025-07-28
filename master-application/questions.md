@@ -1,70 +1,66 @@
 # Questions for Missing Portfolio Information
 
+Based on the comprehensive portfolio audit, the following information gaps have been identified to enhance the master resume:
+
 ## High Priority Questions
 
-### Personal Information
-1. **Current Full Address**: The portfolio only mentions "Burnaby, BC, Canada" but the master.md has a specific address (4655 Buxton Court, Burnaby, BC V5H 1J1, Canada). Please verify if this address is current and accurate.
+### Contact Information Verification
+1. **Current Full Address**: Portfolio shows "Burnaby, BC, Canada" - do you want a full address on the resume or just city/province for privacy?
 
-### Work Experience Details
+### Work Experience Quantification
 
 #### Freelance Backend Developer (2023-Present)
-2. **Client Names/Companies**: Are there specific companies or clients you can mention for the freelance work, or should this remain as "Freelance"?
-3. **Quantifiable Results**: What were the specific financial outcomes, ROI, or performance improvements from your cryptocurrency trading strategies?
-4. **Team Size**: How many people were involved in the Hong Kong-based collaboration?
+2. **Specific Achievements**: What quantifiable results did your cryptocurrency analysis produce? (e.g., ROI percentages, trading volume processed)
+3. **Data Scale**: How many records were processed daily from blockchain/exchange data?
+4. **Client Impact**: Any specific performance improvements or business outcomes you can quantify?
 
-#### STEM Tutor Experience
-5. **Student Count**: The master.md mentions "hundreds of students" - what's the more precise number over 12+ years?
-6. **Success Metrics**: Do you have specific data on student grade improvements, test scores, or success rates?
-7. **Teaching Centers Details**: Are there any specific achievements or recognition from the tutoring centers you can highlight?
+#### STEM Tutor (2012-Present)
+5. **Student Success Metrics**: Do you have data on student grade improvements, test score increases, or pass rates?
+6. **Tutoring Volume**: More precise numbers for students taught over 12+ years?
+7. **Specialization Results**: Any notable achievements in competition prep (AMC, AP exam results)?
 
-#### Gracious Leader Company Limited
-8. **Team Size**: How many developers were in the team of 6? What was your specific role/seniority?
-9. **Subscription Revenue**: Can you provide numbers for the subscription service (revenue, growth, user retention)?
-10. **Performance Metrics**: Specific performance improvements from your optimizations (e.g., processing time reduction, system uptime)?
+#### Gracious Leader Company (2018-2020)
+8. **System Performance**: Quantifiable improvements from your 100,000 daily record processing system?
+9. **Subscription Growth**: User growth metrics or retention rates for the 1,000-2,000 user service?
+10. **Technical Impact**: Server response time improvements, system uptime statistics?
 
-#### HP Enterprise
-11. **Project Scale**: How many passengers or flights were affected by the baggage handling system improvements?
-12. **System Performance**: Any quantifiable improvements in system performance or downtime reduction?
+#### HP Enterprise (2017-2018)
+11. **System Scale**: Volume of baggage or passengers affected by your system improvements?
+12. **Documentation Impact**: Training efficiency improvements or system downtime reduction?
 
-#### LT Securities
-13. **Trading Volume**: What volume of trading data did your systems process daily?
-14. **System Performance**: Response times, throughput, or other performance metrics?
+#### LT Securities (2015-2016)
+13. **Data Processing Volume**: Daily trading data volume processed through your systems?
+14. **System Performance**: Response times or throughput metrics for the TCP system?
 
-### Education
-15. **Langara College Details**: What specific courses or projects contributed to your perfect GPA?
-16. **CUHK Mathematics**: Any specific research projects, thesis topics, or notable academic achievements beyond grades?
-
-### Skills & Certifications  
-17. **Certifications**: Do you have any professional certifications (AWS, programming languages, etc.)?
-18. **Awards/Recognition**: Have you received any industry awards or professional recognition?
-
-### Projects
-19. **David Pang Tutor Website**: What specific technologies were used beyond Next.js/TypeScript? Any analytics on user engagement or business impact?
-20. **Other Projects**: Are there any other significant projects or contributions (open source, etc.) not mentioned?
+### Technical Skills Clarification
+15. **Years of Experience Verification**: Confirm mathematical accuracy of experience durations based on actual employment dates
+16. **Technology Proficiency**: Specific frameworks/versions you're most experienced with
+17. **Project Scale**: Largest database size, API request volumes, or concurrent users handled
 
 ## Medium Priority Questions
 
-### Technical Details
-21. **Framework Versions**: Specific versions of major frameworks you're most comfortable with?
-22. **Database Scale**: What's the largest database you've worked with (number of records, data volume)?
-23. **API Performance**: What's the highest throughput/requests per second you've handled?
+### Education Enhancement
+18. **Langara Projects**: Specific coursework or projects that contributed to perfect GPA?
+19. **CUHK Research**: Any thesis work, research projects, or academic publications?
 
 ### Professional Development
-24. **Conferences/Events**: Have you attended or spoken at any tech conferences or meetups?
-25. **Mentoring**: Have you mentored other developers or contributed to community learning?
-26. **Publications**: Any blog posts, articles, or technical writing?
+20. **Certifications**: Current AWS certification progress or other professional certifications?
+21. **Industry Recognition**: Awards, hackathon participation, or notable achievements?
 
-### Career Goals
-27. **Game Development**: You mentioned Unity game development - any specific projects or achievements in this area?
-28. **AWS Certification**: What's your current progress on AWS certification?
+### Side Projects Details
+22. **Website Analytics**: User engagement metrics or business impact from davidpangtutor.vercel.app?
+23. **Game Development**: Specific metrics from Divisibility Samurai (user engagement, educational effectiveness)?
 
 ## Low Priority Questions
 
-### Personal Interests
-29. **Hobby Projects**: Any programming projects done purely for fun or learning?
-30. **Community Involvement**: Any volunteer work or community contributions?
-31. **Languages**: Any other programming languages you're learning or interested in?
+### Additional Projects
+24. **Other Development Work**: Any open source contributions or personal projects not mentioned?
+25. **Community Involvement**: Technical meetups, conferences, or mentoring activities?
+
+### Current Learning
+26. **Unity Game Development**: Specific projects or milestones in game development learning?
+27. **Context Engineering**: Practical applications or projects using Claude context engineering?
 
 ---
 
-**Note**: This list prioritizes information that would most significantly strengthen your resume and provide quantifiable achievements. Focus on high-priority items first, as they will have the most impact on ATS systems and recruiter interest.
+**Priority Note**: Focus on high-priority quantifiable metrics first, as these provide the most significant ATS optimization and recruiter impact. All experience duration claims must be mathematically verifiable against employment dates to comply with fabrication prevention protocols.

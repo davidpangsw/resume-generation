@@ -1,30 +1,31 @@
 # LinkedIn Skills Section
 
-## Frontend Development (Not Attached to Specific Experiences)
-- **React.js** - Intermediate
-- **Next.js** - Intermediate
-- **Flutter Web** - Intermediate
-- **Responsive Design** - Intermediate
-- **CSS** - Intermediate
+## Core Programming Languages
+• **TypeScript** - Type-safe application development, React/Next.js integration, backend services
 
-## Additional Skills
-- **TypeScript** - Intermediate
-- **JavaScript** - Intermediate
-- **MongoDB** - Intermediate
-- **Redis** - Intermediate
-- **InfluxDB** - Intermediate
-- **API Integration** - Intermediate
-- **Microservices** - Beginner
-- **Git** - Intermediate
-- **CI/CD** - Intermediate
-- **Game Development** - Intermediate
+## Frontend Development
+• **React.js** - Production website development, component architecture (2+ years experience)
+• **Next.js** - Server-side rendering, static site generation
+• Modern CSS & Styling, responsive design
+• Internationalization (i18n) implementation
+• Performance optimization and SEO
 
-## Tools & Platforms
-- **Firebase Hosting**
-- **Vercel**
+## Database Technologies
+• **PostgreSQL** - Primary relational database for business applications
+• **MongoDB** - Document storage for flexible data structures
+• **InfluxDB** - Time-series data for trading/financial applications
+• **Redis** - Caching and session management
+• **Custom Solutions** - Tailored database designs for specific project needs
 
-## Note
-Most core skills have been attached directly to relevant experience descriptions. The skills listed above are either:
-1. Frontend development skills primarily demonstrated in side projects
-2. General skills not tied to specific professional experiences
-3. Tools and platforms used across multiple contexts
+## DevOps & Infrastructure
+• **Docker** - Container creation, image building, and deployment (3+ years experience)
+• **docker-compose** - Multi-container application orchestration
+• **Git** - Version control and repository management
+
+## Backend Development
+• JWT (JSON Web Token) authentication implementation
+• API middleware development
+
+## Mathematical Finance
+• **Cash flow** - Bond pricing
+• **Option pricing** - From put-call parity to Black Scholes equation and solution
