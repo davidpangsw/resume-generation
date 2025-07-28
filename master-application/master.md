@@ -117,7 +117,7 @@ Financial services company specializing in options trading, processing real-time
 ## Skills
 
 ### Programming Languages
-- **Java:** Intermediate (2 years professional) - Enterprise applications, financial systems, airport infrastructure, TCP system integration at LT Securities and HP Enterprise
+- **Java:** Intermediate (2 years professional) - Stock data processing and trading systems at LT Securities, baggage handling system development at HP Enterprise
 - **Python:** Intermediate - Data analysis with Pandas/NumPy, machine learning with Scikit-learn, web scraping with lxml, blockchain processing, cryptocurrency analysis in freelance projects
 - **TypeScript:** Intermediate - Type-safe application development, backend APIs, Next.js applications, advanced features and generics, modern patterns
 - **Node.js:** Intermediate - Real-time cryptocurrency trading systems, web scraping automation with Puppeteer, API development, WebSocket implementation in freelance projects
