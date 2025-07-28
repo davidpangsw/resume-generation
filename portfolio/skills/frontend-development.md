@@ -23,7 +23,7 @@
 - **Responsive Design**: Mobile-first development approach
 - **CSS3 Features**: Flexbox, Grid, transitions, animations
 - **Cross-device Compatibility**: Smartphone, tablet, desktop optimization
-- **Performance Optimization**: CSS optimization and loading strategies
+- **CSS Optimization**: Modern CSS techniques and loading strategies
 
 ### User Experience & Accessibility
 - **Internationalization (i18n)**: Multi-language web application support
@@ -31,11 +31,11 @@
 - **User-Centered Design**: Educational platform interfaces for diverse users
 - **Progressive Enhancement**: Graceful degradation across browser capabilities
 
-### Performance & Optimization
-- **Static Site Generation**: Next.js SSG for optimal loading performance
+### Web Development & Optimization
+- **Static Site Generation**: Next.js SSG for web applications
 - **Image Optimization**: Modern image formats and lazy loading
 - **Code Splitting**: Dynamic imports and bundle optimization
-- **SEO Implementation**: Meta tags, structured data, search optimization
+- **Meta Tags Implementation**: HTML meta tags and structured data
 
 ## Key Projects
 
@@ -44,11 +44,11 @@
 - Professional service platform with complete frontend implementation
 - Multi-language support with internationalized routing
 - Responsive design optimized for all device types
-- SEO-optimized with modern performance practices
+- Modern web development practices
 
 ### Divisibility Samurai Web Game
 **Technologies**: Flutter Web, Dart, Custom CSS
-- Browser-based educational game with 60 FPS performance
+- Browser-based educational game development
 - Custom responsive design for cross-device gameplay
 - Real-time user interface with game state management
 - Mobile-optimized touch controls and visual feedback
@@ -74,8 +74,8 @@
 - CSS3/HTML5
 - JavaScript ES6+
 - Responsive Design
-- Web Performance
-- SEO Optimization
+- Web Development
+- Web Optimization
 - Accessibility (a11y)
 - Internationalization (i18n)
 

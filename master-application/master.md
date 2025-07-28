@@ -93,7 +93,7 @@ Experienced Backend Developer with expertise in creating reliable, high-quality 
 - **Next.js:** Server-side rendering, static site generation
 - Modern CSS & Styling, responsive design
 - Internationalization (i18n) implementation
-- Performance optimization and SEO
+- Responsive design
 
 ### Database Technologies
 - **PostgreSQL:** Primary relational database for business applications
@@ -129,7 +129,7 @@ Experienced Backend Developer with expertise in creating reliable, high-quality 
 - Next.js framework with server-side rendering and static site generation
 - Internationalization (i18n) implementation for multi-language support
 - Responsive design optimized for mobile, tablet, and desktop
-- SEO optimization with modern performance practices
+- Modern web development practices
 
 ### Divisibility Samurai - Flutter Web Game
 **URL:** https://divisibility-samurai.web.app/  

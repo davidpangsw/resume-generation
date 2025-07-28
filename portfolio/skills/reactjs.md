@@ -1,15 +1,15 @@
 # React.js & Next.js Skills
 
 ## Overview
-Proficient in React.js ecosystem and Next.js framework for building modern, responsive web applications with focus on performance, accessibility, and user experience.
+Proficient in React.js ecosystem and Next.js framework for building modern, responsive web applications with focus on accessibility and user experience.
 
 ## Technical Experience
 
 ### Next.js Development
 - **Production Website**: Built and deployed professional tutoring services website using Next.js
-- **Server-Side Rendering**: Implemented SSR and static site generation for optimal performance
+- **Server-Side Rendering**: Implemented SSR and static site generation
 - **File-based Routing**: Utilized Next.js routing system for clean URL structure
-- **Performance Optimization**: Leveraged Next.js built-in optimizations for images, fonts, and bundle size
+- **Built-in Optimizations**: Leveraged Next.js features for images, fonts, and bundle management
 
 ### React.js Proficiency
 - **Component Architecture**: Designed reusable, modular React components
@@ -31,7 +31,7 @@ Proficient in React.js ecosystem and Next.js framework for building modern, resp
 
 - **Professional Service Platform**: Built complete tutoring services website from scratch
 - **Responsive Design**: Mobile-first approach ensuring accessibility across all devices
-- **SEO Optimization**: Implemented Next.js SEO best practices for search visibility
+- **Framework Features**: Implemented Next.js built-in features for web applications
 - **Internationalization**: Multi-language support with professional i18n implementation
 - **Modern Deployment**: Optimized deployment on Vercel platform with CI/CD integration
 
@@ -41,7 +41,7 @@ Proficient in React.js ecosystem and Next.js framework for building modern, resp
 - **React Ecosystem**: Deep understanding of React.js and Next.js frameworks
 - **Modern JavaScript**: ES6+ features, async/await, destructuring, modules
 - **CSS & Styling**: Responsive design, CSS-in-JS, modern layout techniques
-- **Web Performance**: Code splitting, lazy loading, image optimization
+- **Modern Features**: Code splitting, lazy loading, image handling
 
 ### Development Practices
 - **Component Design**: Reusable, maintainable component architecture
@@ -51,7 +51,7 @@ Proficient in React.js ecosystem and Next.js framework for building modern, resp
 
 ### Deployment & DevOps
 - **Vercel Platform**: Professional deployment and optimization
-- **Static Site Generation**: Performance-optimized static builds
+- **Static Site Generation**: Optimized static builds
 - **Domain Management**: Custom domain configuration and DNS setup
 - **Continuous Integration**: Automated deployment pipeline
 
@@ -74,7 +74,7 @@ Proficient in React.js ecosystem and Next.js framework for building modern, resp
 ### Continuous Improvement
 - **Framework Updates**: Staying current with React and Next.js ecosystem changes
 - **Best Practices**: Following React and Next.js community standards
-- **Performance Monitoring**: Implementing analytics and performance tracking
+- **Analytics**: Implementing user analytics and tracking
 - **User Feedback**: Iterating based on real user interactions and needs
 
 ### Future Development

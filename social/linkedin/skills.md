@@ -8,7 +8,7 @@
 • **Next.js** - Server-side rendering, static site generation
 • Modern CSS & Styling, responsive design
 • Internationalization (i18n) implementation
-• Performance optimization and SEO
+• Responsive design
 
 ## Database Technologies
 • **PostgreSQL** - Primary relational database for business applications

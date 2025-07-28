@@ -25,10 +25,9 @@ Personal tutoring services website built and deployed on Vercel platform, showca
 ### Technical Features
 - **Next.js Framework**: Modern React-based framework with server-side rendering
 - **i18n Integration**: Professional internationalization implementation supporting multiple languages
-- **Static Site Generation**: Likely using Next.js SSG for performance optimization
+- **Static Site Generation**: Using Next.js SSG for web application
 - **Modern React Patterns**: Component-based architecture with modern React features
 - **Responsive Design**: Mobile-responsive for parent/student accessibility across devices
-- **SEO Optimization**: Next.js built-in SEO capabilities for better search visibility
 
 ## Services & Content (To Be Updated)
 
@@ -62,7 +61,6 @@ Based on David's background as a STEM tutor:
 - **Frontend Development**: Modern JavaScript/TypeScript and CSS implementation
 - **User Experience**: Creating accessible interfaces for educational services
 - **Modern Deployment**: Vercel platform optimization and deployment
-- **SEO & Performance**: Static site generation for optimal loading and search visibility
 
 ## Project Significance
 
